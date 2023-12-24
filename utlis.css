@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background:url(bolo.jpg) #2f00ff;
+  }
+  
+  .mx-auto{
+    text-align: center;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
