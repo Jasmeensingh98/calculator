@@ -1,3 +1,15 @@
 hi my name is jasmeen singh.
 
+Types of vcs:
+
+LOCAL VCS
+
 In local vcs a simple databse that kept all the changes to the files under revision control one of the most vcs tool was a system called RCS(revision control system).rcs works by keeping patch sets(difference btw files) in a special format on disk it chan then recreate what any file look like at anypoint on time by adding a all the patches.
+
+CENTRALISED VCS
+
+in centralised vcs this such as vcs force which having a single server that contains all the version of the files and a number of clients that check out files from the central place. this have advantage over local vcs for ex(everyone knows to a certain degree ,what everyone else on the project is doing).
+
+DISTRIBUTED VCS
+
+in distributed vcs such as git mercurial bazzar and docs in this every machine having the full history .if server crash then client repositries can be copied back upto the server to restore it .In this every machine have a full backup of data.
